@@ -40,6 +40,7 @@ jupyterlab-widgets==3.0.3
 jupyterlab_server==2.16.0
 jupyterlite==0.1.0b13
 jupyterlite-p5-kernel==0.1.0a12
+jupyterlite-xeus-lua==0.3.3
 MarkupSafe==2.1.1
 matplotlib-inline==0.1.6
 mistune==2.0.4
