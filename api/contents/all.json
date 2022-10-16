@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-10-16T13:04:13.653073Z",
+      "format": null,
+      "last_modified": "2022-10-16T13:04:11.545042Z",
+      "mimetype": "text/markdown",
+      "name": "README.md",
+      "path": "README.md",
+      "size": 63,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-10-16T13:04:13.653073Z",
+  "format": "json",
+  "last_modified": "2022-10-16T13:04:13.653073Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
