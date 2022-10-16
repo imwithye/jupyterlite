@@ -10,6 +10,31 @@
       {
         "extension": "./extension",
         "liteExtension": false,
+        "load": "static/remoteEntry.1116b848a6f7126bf3e9.js",
+        "name": "@jupyter-widgets/jupyterlab-manager"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": true,
+        "load": "static/remoteEntry.4ba93726087006d2f61b.js",
+        "name": "@jupyterlite/p5-kernel-extension",
+        "style": "./style"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
+        "load": "static/remoteEntry.8a4c97071917cf84832f.js",
+        "name": "@telamonian/theme-darcula"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
+        "load": "static/remoteEntry.99c828c2ee313756f7dc.js",
+        "name": "bqplot"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
         "load": "static/remoteEntry.aa1060b2d1221f8e5688.js",
         "name": "jupyterlab_pygments",
         "style": "./style"
